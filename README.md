@@ -5,27 +5,27 @@
 
     
 <h1 align="center" style="color:white;">
-    
+    JAQUELINE V COSTA
 </h1>
 
-<h3 align="center" style="color:white;">Languages and Data Enthusiast</h3>
+<h3 align="center" style="color:white;"> { Languages and Data Enthusiast }</h3>
 
 <br/>
+<table style="border-collapse: collapse;">
+    <td align='left'>
 
-<div align="center" style="color:white;">
- 
- 🔵 Current Project 🔵 <br/>
- **Nhe'engatú <-> Brazilian Portuguese Translator**
-  <br/><br/>
- 🔵 Currently Learning 🔵 <br/>
- **Cloud Computing and AWS** <br/>
- **Genetics and Bioinformatics** <br/>
- **Natural Language Processing** <br/>
- 
- 
+     
+     CurrentWorks = {
+         project: "Nhe'engatú <-> Brazilian-Portuguese Translator",
+         studies: [
+                 "Cloud Computing and AWS",
+                 "Genetics and Bioinformatics",
+                 "Natural Language Processing"
+                 ]
+        }
+ </td>
+</table>
 
-</div>
- 
 <div align="center" style="color:white;"> 
   <a href="mailto:jaqueline.villagra.costa@alumni.usp.br">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
@@ -34,7 +34,7 @@
 
 <hr/>
  
-<h2 align="center" style="color:white;">🔵 tool-box 🔵</h2>
+<h2 align="center" style="color:white;">tool-box</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,mongodb"/><br>

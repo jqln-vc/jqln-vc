@@ -5,23 +5,15 @@
 <body style="background-color:black;">
 
     
-<h1 align="center" style="color:white;">JAQUELINE V COSTA</h1>
-
+<h1 align="center">JAQUELINE V COSTA</h1>
 <h3 align="center"> { Languages and Data Enthusiast }</h3>
 
-<br/>
-<table width='80%'>
-<td width='50%'>
-    
-    personal_info = {
-        email: "jaqueline.villagra.costa@alumni.usp.br",
-        studies: [
-            "Cloud Computing and AWS",
-            "Genetics and Bioinformatics",
-            "Natural Language Processing"
-            ]
-    }
-    
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="personal-info" src="https://github.com/jqln-vc/config_stuff/blob/2a5671dcee6c932265735126fe83627dca04ef51/readme-1.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+
+
 </td>
 <td width='50%'>
         

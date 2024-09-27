@@ -10,8 +10,8 @@
 <h3 align="center"> { Languages and Data Enthusiast }</h3>
 
 <br/>
-<table style="border: none" cellspacing="0" cellpadding="0">
-<td style="border: none">
+<table width='80%'>
+<td width='50%'>
     
     personal_info = {
         email: "jaqueline.villagra.costa@alumni.usp.br",
@@ -23,16 +23,16 @@
     }
     
 </td>
-<td style="border: none">
+<td width='50%'>
         
-        current_activities = {
-            project: "Nhe'engatú <-> Brazilian-Portuguese Translator",
-            studies: [
-                    "Cloud Computing and AWS",
-                    "Genetics and Bioinformatics",
-                    "Natural Language Processing"
-                    ]
-        }
+    current_activities = {
+        project: "Nhe'engatú <-> Brazilian-Portuguese Translator",
+        studies: [
+                "Cloud Computing and AWS",
+                "Genetics and Bioinformatics",
+                "Natural Language Processing"
+                ]
+    }
     
 </td>
 </table>

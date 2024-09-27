@@ -1,3 +1,7 @@
+<html>
+    
+
+
 <body style="background-color:black;">
 
     
@@ -6,8 +10,8 @@
 <h3 align="center"> { Languages and Data Enthusiast }</h3>
 
 <br/>
-<table border="0">
-<td>
+<table style="border: none" cellspacing="0" cellpadding="0">
+<td style="border: none">
     
     personal_info = {
         email: "jaqueline.villagra.costa@alumni.usp.br",
@@ -19,7 +23,7 @@
     }
     
 </td>
-<td>
+<td style="border: none">
         
         current_activities = {
             project: "Nhe'engatú <-> Brazilian-Portuguese Translator",
@@ -32,7 +36,7 @@
     
 </td>
 </table>
-
+<img src="https://duolingo-stats-card.vercel.app/api?username=niiin3&sort=xp&theme=github-dark" alt="Duolingo Stats" />
  
 <h2 align="center">{ Tool Box }</h2>
 <table>
@@ -98,3 +102,4 @@
 </div>
 
 <br/>
+</html>

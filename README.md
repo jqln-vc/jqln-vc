@@ -26,7 +26,7 @@
 <td width='50%'>
         
     current_activities = {
-        project: "Nhe'engatú <-> Brazilian-Portuguese Translator",
+        project: "Nhe'engatú <-> Pt-Br Translator",
         studies: [
                 "Cloud Computing and AWS",
                 "Genetics and Bioinformatics",

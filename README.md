@@ -38,7 +38,6 @@
 </table>
 <img src="https://duolingo-stats-card.vercel.app/api?username=niiin3&sort=xp&theme=github-dark" alt="Duolingo Stats" />
  
-<h2 align="center">{ Tool Box }</h2>
 <table>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqln-vc&theme=transparent&layout=donut&hide=c"/></td>
 <td>

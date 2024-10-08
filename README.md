@@ -4,9 +4,8 @@
 
 <body style="background-color:black;">
 
-    
-<h1 align="center">JAQUELINE V COSTA</h1>
-<h3 align="center"> { Languages and Data Enthusiast }</h3>
+
+<h1 align="center"> { "JVC": "Languages and Data Enthusiast" }</h1>
 
 <div align="center">
     

@@ -7,90 +7,30 @@
     
 <h1 align="center">JAQUELINE V COSTA</h1>
 <h3 align="center"> { Languages and Data Enthusiast }</h3>
-https://github.com/Ileriayo/markdown-badges
-
-| | |
-|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="personal-info" src="https://github.com/jqln-vc/config_stuff/blob/2a5671dcee6c932265735126fe83627dca04ef51/readme-1.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
-
-</td>
-<td width='50%'>
-        
-    current_activities = {
-        project: "Nhe'engatú <-> Pt-Br Translator",
-        studies: [
-                "Cloud Computing and AWS",
-                "Genetics and Bioinformatics",
-                "Natural Language Processing"
-                ]
-    }
-    
-</td>
-</table>
-<img src="https://duolingo-stats-card.vercel.app/api?username=niiin3&sort=xp&theme=github-dark" alt="Duolingo Stats" />
- 
-<table>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqln-vc&theme=transparent&layout=donut&hide=c"/></td>
-<td>
-                Python<br>
-                <img src="https://skillicons.dev/icons?i=py"/><br>
-                Rust<br>
-                <img src="https://skillicons.dev/icons?i=rust"/><br>
-                Bash<br>
-                <img src="https://skillicons.dev/icons?i=rust"/>
-
-                
-</td>
-<td>
-                RegEx<br>
-                <img src="https://skillicons.dev/icons?i=regex"/><br>
-                LaTex<br>
-                <img src="https://skillicons.dev/icons?i=latex"/><br>
-                HTML<br>
-                <img src="https://skillicons.dev/icons?i=html"/>             
-
-                
-</td>
-<td>
-                MySQL<br>
-                <img src="https://skillicons.dev/icons?i=mysql"/><br>
-                Postgres<br>
-                <img src="https://skillicons.dev/icons?i=postgres"/><br>
-                MongoDB<br>
-                <img src="https://skillicons.dev/icons?i=mongodb"/>
-
-                
-</td>
-<td>
-                scikit-learn<br>
-                <img src="https://skillicons.dev/icons?i=sklearn"/><br>
-                AWS<br>
-                <img src="https://skillicons.dev/icons?i=aws"/><br>
-                Grafana<br>
-                <img src="https://skillicons.dev/icons?i=grafana"/>
-
-                
-</td>
-<td>
-                Illustrator<br>
-                <img src="https://skillicons.dev/icons?i=ai"/><br>
-                Photoshop<br>
-                <img src="https://skillicons.dev/icons?i=ps"/><br>
-                Notion<br>
-                <img src="https://skillicons.dev/icons?i=notion"/>
-
-                
-</td>
-</table>
-</body>
-<br/>
-<hr/>
-<br/>
 
 <div align="center">
-<a href='https://ko-fi.com/X8X613G07F' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+    
+| | | | 
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <b>CURRENT INTERESTS<b> | | <b>FIND ME HERE<b> | 
+| Data Engineering & Cloud Computing || [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaqueline.villagra.costa@alumni.usp.br) |
+| Genetics & Bioinformatics  | | [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account-profile) |
+| Natural Language Processing | | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/niiin3) |
 
-<br/>
+</div>
+<table align="center">
+<td><a href="https://www.duolingo.com/profile/niiin3" target="_blank"><img src="https://duolingo-stats-card.vercel.app/api?username=niiin3&sort=xp&theme=github-dark" alt="Duolingo Stats" /></a></td>
+
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqln-vc&theme=transparent&layout=donut&hide=c"/></td>
+</table>
+<div align="center">
+    
+| | | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+| ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+
+</div>
+</body>
 </html>

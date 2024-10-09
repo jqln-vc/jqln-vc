@@ -12,7 +12,7 @@
 | | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | <b>CURRENT INTERESTS<b> | | <b>FIND ME HERE<b> | 
-| Data Engineering & Cloud Computing || [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaqueline.villagra.costa@alumni.usp.br) |
+| Data Engineering & Cloud Computing || [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jqln.vc@gmail.com) |
 | Genetics & Bioinformatics  | | [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/account-profile) |
 | Natural Language Processing | | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/niiin3) |
 

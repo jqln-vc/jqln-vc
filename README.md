@@ -1,10 +1,3 @@
-<html>
-    
-
-
-<body style="background-color:black;">
-
-
 <h1 align="center"> { "JVC": "Languages and Data Enthusiast" }</h1>
 
 <div align="center">
@@ -31,5 +24,3 @@
 | ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
 </div>
-</body>
-</html>

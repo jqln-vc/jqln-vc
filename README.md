@@ -2,13 +2,6 @@
 
 <div align="center">
     
-![AWS Sales Accredited](/assets/aws-partner-sales-accreditation.png)
-    
-</div>
-
-
-<div align="center">
-    
 | | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | <b>CURRENT INTERESTS<b> | | <b>FIND ME HERE<b> | 

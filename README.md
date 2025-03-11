@@ -4,10 +4,10 @@
     
 | | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <b>CURRENT INTERESTS<b> | | <b>FIND ME HERE<b> | 
-| Cloud Data Engineering || [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jqln.vc@gmail.com) |
-| Natural Language Processing | | [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/niiin3) |
-| Genetics & Bioinformatics  | | [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/jqln-vc) |
+| <b>CURRENT INTERESTS<b> | | <b>PERSONAL INFO<b> | 
+| Cloud Data Engineering || [![Credly Badges](https://img.shields.io/badge/Credly-Badges-FF6B00)](https://www.credly.com/users/jaqueline-v-costa)|
+| Natural Language Processing | | [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/jqln-vc) |
+| Genetics & Bioinformatics  | | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jqln.vc@gmail.com) |
 
 </div>
 <table align="center">

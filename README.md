@@ -9,9 +9,6 @@
 | Natural Language Processing | | [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/jqln-vc) |
 | Genetics & Bioinformatics  | | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jqln.vc@gmail.com) |
 
-</div>
-<table align="center">
-<td><a href="https://www.duolingo.com/profile/niiin3" target="_blank"><img src="https://duolingo-stats-card.vercel.app/api?username=niiin3&sort=xp&theme=github-dark" alt="Duolingo Stats" /></a></td>
 
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jqln-vc&theme=transparent&layout=donut&hide=c,makefile"/></td>
 </table>
